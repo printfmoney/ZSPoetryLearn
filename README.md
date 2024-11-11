@@ -8,14 +8,14 @@
 - 读者管理：在读者注册后，管理员对读者进行管理。管理员可以查询所有读者信息，根据读者姓名查询读者
 - 诗词类别管理：管理员添加诗词类别、修改诗词类别、查看诗词类型、删除诗词类别
 管理员端功能模块图
-![manager_function](assets/manager_function.png)
+![manager_function](http://aqara.cloverkim.com/manager_function.png)
 
 #### 读者端
 - 注册：读者输入个信信息进行注册
 - 登录：读者需登录系统后，才可操作系统。如果读者忘记密码了，可以进行修改密码
 - 诗词管理：读者可以根据诗名搜索诗词，根据诗人搜索诗词，也可以按照诗名、诗人及朝代等信息实现诗词精确搜索
 - 个人信息管理：读者可以查看个人信息，对个人信息进行修改，对密码进行修改
-读者端功能模块图如图所示![reader_function](assets/reader_function.png)
+读者端功能模块图如图所示![reader_function](http://aqara.cloverkim.com/reader_function.png)
 
 ## 数据库设计
 #### 诗词表
