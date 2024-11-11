@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.MainFrame">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="20" y="20" width="2745" height="1732"/>
+    </constraints>
+    <properties>
+      <preferredSize width="800" height="450"/>
+      <toolTipText value=""/>
+    </properties>
+    <border type="none" title="主页面"/>
+    <children>
+      <component id="bf90c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="欢迎使用古诗词学习交流平台"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
